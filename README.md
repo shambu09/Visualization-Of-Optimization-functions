@@ -17,4 +17,4 @@ while smoothing and averaging out all the nearby change in directions.
 - The Adam Curve is sensitive towards all the big changes in the directions of the original plot 
 as well as the curve moves along the overall direction of the original plot. 
     
-*P.S while using the bias correction the graph explodes in certain regions(mostly when x unit is small).*
+*P.S while using the bias correction the graph explodes in certain regions(mostly when x unit(year) is relatively small).*
